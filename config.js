@@ -18,7 +18,7 @@ const CONFIG = {
     reply: 'Anh hong muốn làm em bùn đâu',
     
     mess: 'Cảm ơn em vì đã đọc lời xin lỗi của anh 🥺❤️',
-    messDesc: 'Anh thật sự xin lỗi. Anh thương em nhiều lắm và không muốn giữa chúng mình có những chuyện khiến cả hai buồn nữa. 🥰',
+    messDesc: 'Anh thật sự xin lỗi. Anh thương em nhiều lắm và không muốn giữa chúng mình có những chuyện khiến cả hai buồn nữa. 🥰 Mai nhớ mặc đồ đẹp đi chụp ảnh nghen',
     
     btnAccept: 'Oki, em tha cho anh ❤️',
     
