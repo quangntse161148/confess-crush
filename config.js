@@ -1,20 +1,27 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://www.facebook.com/messages/t/100014188333536
-}
+    titleWeb: "Lời xin lỗi dành cho em ❤️",
+    introTitle: 'Bé Cáo ơi 🥺',
+    introDesc: `Anh biết anh đã làm em buồn
+    Anh biết anh đã làm em giận
+    Có những lời anh nói chưa đúng
+    Nhưng tình cảm anh dành cho em là thật lòng ❤️`,
+    btnIntro: 'Bấm vào đây nha 🥺',
+    
+    title: 'Anh xin lỗi em iu 🥺❤️',
+    desc: 'Anh biết mình sai rồi, em đừng giận anh nữa được không? 🥺',
+    
+    btnYes: 'Em tha lỗi cho anh ❤️',
+    btnNo: 'Chưa tha đâu 😤',
+    
+    question: 'Anh biết lỗi rồi 🥺',
+    btnReply: 'Gửi lời cho anh ❤️',
+    
+    reply: 'Anh hong muốn làm em bùn đâu',
+    
+    mess: 'Cảm ơn em vì đã đọc lời xin lỗi của anh 🥺❤️',
+    messDesc: 'Anh thật sự xin lỗi. Anh thương em nhiều lắm và không muốn giữa chúng mình có những chuyện khiến cả hai buồn nữa. 🥰',
+    
+    btnAccept: 'Oki, em tha cho anh ❤️',
+    
+    messLink: 'https://www.facebook.com/messages/e2ee/t/9528431310619959'
+};
