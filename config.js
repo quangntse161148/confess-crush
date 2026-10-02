@@ -3,8 +3,7 @@ const CONFIG = {
     introTitle: 'Bé Cáo ơi 🥺',
     introDesc: `Anh biết anh đã làm em buồn
     Anh biết anh đã làm em giận
-    Có những lời anh nói chưa đúng
-    Nhưng tình cảm anh dành cho em là thật lòng ❤️`,
+    Có những lời anh nói chưa đúng❤️`,
     btnIntro: 'Bấm vào đây nha 🥺',
     
     title: 'Anh xin lỗi em iu 🥺❤️',
